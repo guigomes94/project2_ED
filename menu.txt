@@ -1,0 +1,7 @@
+(1) Inserir música
+(2) Buscar música por nome
+(3) Buscar músicas por ano
+(4) Remover música
+(5) Listar músicas em ordem alfabética
+(6) Altura da árvore
+(7) Sair do programa
